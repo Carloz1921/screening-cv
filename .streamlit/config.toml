@@ -8,17 +8,3 @@ font = "sans serif"
 
 [server]
 maxUploadSize = 10
-```
-
-**4️⃣** Clic en **"Commit changes"** → **"Commit directly"** → **"Commit changes"**
-
----
-
-Al final tu repositorio debe tener:
-```
-screening-cv/
-├── app.py
-├── requirements.txt
-├── README.md
-└── .streamlit/
-    └── config.toml
